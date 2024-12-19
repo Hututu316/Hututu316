@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi there, I'm Hututu316! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, and I love to learn and share my knowledge with the community.
@@ -25,6 +22,11 @@ Here are some of the projects I've been working on:
 - **[Another Project](https://github.com/Hututu316/another-project)**: Brief description of another project.
 - **[Yet Another Project](https://github.com/Hututu316/yet-another-project)**: Brief description of yet another project.
 
+## 📫 How to Reach Me
+
+- Email: [hututu316@example.com](mailto:hututu316@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
 
 ## 🌱 Currently Learning
 
@@ -43,4 +45,3 @@ I also enjoy writing about technology and my experiences. Check out my blog:
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hututu316.Hututu316)
--->
